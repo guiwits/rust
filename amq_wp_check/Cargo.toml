@@ -1,0 +1,6 @@
+[package]
+name = "amq_wp_check"
+version = "0.1.0"
+authors = ["steve"]
+
+[dependencies]
